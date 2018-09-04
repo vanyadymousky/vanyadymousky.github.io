@@ -51,8 +51,8 @@ import exampleImage from './react-share-pin-example.png';
 
 class Demo extends Component {
   render() {
-    const shareUrl = 'http://github.com';
-    const title = 'GitHub';
+    const shareUrl = 'https://scorum.me/ru-ru/mma/@john93/dumayu-zdes-vse-ponyatno';
+    const title = 'Scorum';
 
     return (
       <div className="Demo__container">
